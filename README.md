@@ -89,6 +89,22 @@ O dataset utilizado neste projeto é **simulado** e contém informações sobre:
 
 ---
 
+## Principais Insights
+
+A análise do dashboard permite identificar alguns padrões operacionais:
+
+- O mês de **junho** apresentou o maior volume de falhas, tempo de parada e custo de reparo, indicando um período de maior criticidade operacional.
+- O parque **Brisa do Sertão** apresenta maior impacto operacional em termos de falhas e custos de manutenção.
+- Falhas relacionadas ao **sistema hidráulico** representam uma parcela significativa das ocorrências, destacando a importância de ações preventivas nesse componente.
+
+Esses resultados podem auxiliar na priorização de estratégias de manutenção preventiva e melhoria da confiabilidade operacional.
+
 ## Autor
 
 **Gabriela Cerqueira**
+
+## Sobre a Autora
+
+Gabriela Cerqueira é profissional com experiência em gestão de processos, gestão de ativos e análise de dados aplicados a ambientes industriais.
+
+Este projeto demonstra a aplicação de técnicas de **Business Intelligence e análise operacional** para apoio à tomada de decisão em manutenção de ativos.
