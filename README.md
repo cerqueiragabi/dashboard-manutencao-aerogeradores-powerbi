@@ -108,3 +108,7 @@ Esses resultados podem auxiliar na priorização de estratégias de manutenção
 Gabriela Cerqueira é profissional com experiência em gestão de processos, gestão de ativos e análise de dados aplicados a ambientes industriais.
 
 Este projeto demonstra a aplicação de técnicas de **Business Intelligence e análise operacional** para apoio à tomada de decisão em manutenção de ativos.
+
+# ⚠️ Observação
+
+Este projeto utiliza **dados fictícios**, criados exclusivamente para fins educacionais e demonstração de habilidades em análise e visualização de dados.
