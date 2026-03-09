@@ -1,0 +1,501 @@
+Data;Parque;Turbina;Tipo_Falha;Tempo_Parada_h;Custo_Reparo;Tipo_Manutencao
+08/11/2025;Horizonte Livre;T-01;Sistema hidráulico;5.75;2375.56;Preventiva
+13/02/2025;Serra Azul;T-19;Sistema de pitch;4.97;3218.42;Corretiva
+04/01/2025;Horizonte Livre;T-04;Sensor de vento;1.81;829.76;Corretiva
+25/02/2025;Ventos do Norte;T-02;Sistema elétrico;9.16;4420.92;Corretiva
+28/02/2025;Serra Azul;T-23;Sensor de vento;1.62;1062.77;Corretiva
+03/09/2025;Campo Belo;T-24;Transformador;3.3;1627.42;Corretiva
+19/08/2025;Ventos do Norte;T-12;Sistema hidráulico;5.36;778.05;Preventiva
+20/02/2025;Ventos do Norte;T-01;Sistema hidráulico;2.41;1993.94;Preventiva
+16/08/2025;Horizonte Livre;T-02;Sistema elétrico;3.97;3877.1;Corretiva
+27/02/2025;Campo Belo;T-02;Caixa de engrenagem;12.37;7763.09;Corretiva
+16/11/2025;Serra Azul;T-17;Transformador;6.2;1819.38;Corretiva
+21/12/2025;Campo Belo;T-22;Controle eletrônico;4.1;860.2;Corretiva
+24/11/2025;Campo Belo;T-10;Sistema elétrico;4.91;3633.11;Preventiva
+01/07/2025;Ventos do Norte;T-03;Sensor de vento;1.08;1012.71;Corretiva
+29/05/2025;Brisa do Sertão;T-07;Sistema hidráulico;4.1;2237.48;Corretiva
+14/07/2025;Brisa do Sertão;T-14;Transformador;3.1;3481.82;Preventiva
+05/07/2025;Ventos do Norte;T-24;Transformador;3.98;1153.83;Corretiva
+14/01/2025;Ventos do Norte;T-08;Sistema elétrico;7.65;2034.99;Preventiva
+22/09/2025;Horizonte Livre;T-05;Sistema elétrico;6.42;1148.4;Corretiva
+30/01/2025;Ventos do Norte;T-29;Sistema de pitch;2.01;2157.49;Corretiva
+20/05/2025;Serra Azul;T-14;Controle eletrônico;5.11;2137.09;Corretiva
+17/06/2025;Ventos do Norte;T-16;Caixa de engrenagem;15.54;11096.69;Corretiva
+14/04/2025;Campo Belo;T-08;Sistema elétrico;3.04;2636.19;Corretiva
+25/07/2025;Ventos do Norte;T-19;Sistema de pitch;3.31;2845.7;Preventiva
+01/05/2025;Campo Belo;T-02;Sistema de pitch;4.52;589.57;Corretiva
+17/02/2025;Serra Azul;T-15;Sistema hidráulico;5.49;2153.43;Corretiva
+20/03/2025;Ventos do Norte;T-28;Sensor de vento;1.46;1083.5;Preventiva
+04/10/2025;Campo Belo;T-11;Sistema hidráulico;6.55;3338.15;Corretiva
+07/07/2025;Ventos do Norte;T-18;Sistema elétrico;4.32;3128.95;Corretiva
+07/06/2025;Serra Azul;T-10;Caixa de engrenagem;17.33;14926.64;Corretiva
+25/06/2025;Brisa do Sertão;T-27;Sistema elétrico;5.04;3277.21;Corretiva
+23/04/2025;Serra Azul;T-07;Sistema hidráulico;3.34;1423.41;Corretiva
+11/11/2025;Horizonte Livre;T-19;Sensor de vento;2.65;1306.87;Corretiva
+07/01/2025;Horizonte Livre;T-06;Sistema hidráulico;4.89;3403.18;Corretiva
+02/05/2025;Ventos do Norte;T-09;Caixa de engrenagem;17.45;10064.64;Preventiva
+30/01/2025;Brisa do Sertão;T-12;Sistema hidráulico;5.54;3884.23;Preventiva
+14/01/2025;Campo Belo;T-14;Sistema de pitch;3.95;3251.71;Corretiva
+16/07/2025;Campo Belo;T-22;Sistema hidráulico;1.07;3239.71;Corretiva
+05/06/2025;Horizonte Livre;T-10;Sensor de vento;2.07;810.3;Preventiva
+27/02/2025;Serra Azul;T-13;Sistema elétrico;6.18;1114.92;Corretiva
+25/07/2025;Ventos do Norte;T-29;Sensor de vento;1.82;1007.13;Corretiva
+05/12/2025;Horizonte Livre;T-05;Caixa de engrenagem;21.91;10445.19;Corretiva
+13/05/2025;Horizonte Livre;T-09;Sistema de pitch;2.79;1598.59;Preventiva
+27/04/2025;Campo Belo;T-21;Sistema de pitch;5.37;2263.0;Corretiva
+12/06/2025;Horizonte Livre;T-09;Caixa de engrenagem;13.88;13539.8;Corretiva
+06/11/2025;Horizonte Livre;T-14;Transformador;4.15;2774.92;Corretiva
+16/05/2025;Serra Azul;T-25;Sistema hidráulico;3.95;2205.1;Corretiva
+15/06/2025;Ventos do Norte;T-10;Sistema de pitch;3.41;829.19;Corretiva
+09/06/2025;Campo Belo;T-16;Sistema hidráulico;5.44;2734.95;Corretiva
+12/06/2025;Brisa do Sertão;T-12;Controle eletrônico;4.01;1812.33;Corretiva
+01/05/2025;Ventos do Norte;T-22;Sistema elétrico;3.17;2995.23;Corretiva
+07/10/2025;Serra Azul;T-02;Controle eletrônico;3.49;1358.18;Corretiva
+31/01/2025;Horizonte Livre;T-01;Transformador;3.76;2323.24;Preventiva
+11/01/2025;Brisa do Sertão;T-29;Sistema elétrico;9.77;3709.49;Corretiva
+02/07/2025;Brisa do Sertão;T-26;Transformador;4.39;1940.44;Preventiva
+04/05/2025;Serra Azul;T-02;Controle eletrônico;1.12;1978.79;Corretiva
+01/08/2025;Serra Azul;T-05;Sistema elétrico;6.12;6455.89;Corretiva
+15/08/2025;Campo Belo;T-16;Controle eletrônico;3.71;2241.24;Corretiva
+03/06/2025;Campo Belo;T-08;Sistema hidráulico;4.95;1448.19;Preventiva
+02/03/2025;Brisa do Sertão;T-28;Caixa de engrenagem;20.57;14255.8;Corretiva
+04/09/2025;Horizonte Livre;T-09;Controle eletrônico;5.19;1272.49;Corretiva
+28/08/2025;Brisa do Sertão;T-13;Sensor de vento;3.12;479.44;Preventiva
+27/11/2025;Brisa do Sertão;T-28;Sistema elétrico;7.17;6128.55;Preventiva
+30/01/2025;Brisa do Sertão;T-24;Sistema elétrico;4.02;2820.44;Corretiva
+05/10/2025;Ventos do Norte;T-28;Sistema de pitch;4.15;1597.22;Corretiva
+06/07/2025;Ventos do Norte;T-31;Sensor de vento;0.76;920.57;Preventiva
+18/07/2025;Serra Azul;T-28;Transformador;2.41;2378.87;Corretiva
+03/06/2025;Ventos do Norte;T-07;Sistema elétrico;4.16;5359.92;Corretiva
+25/01/2025;Campo Belo;T-09;Sistema hidráulico;3.83;2210.14;Corretiva
+21/09/2025;Horizonte Livre;T-17;Caixa de engrenagem;19.25;8307.41;Corretiva
+13/11/2025;Horizonte Livre;T-05;Sensor de vento;2.18;1292.14;Preventiva
+29/11/2025;Campo Belo;T-04;Transformador;1.59;2147.71;Preventiva
+31/01/2025;Serra Azul;T-13;Sistema hidráulico;5.39;3203.64;Corretiva
+12/10/2025;Campo Belo;T-11;Controle eletrônico;2.14;943.63;Corretiva
+05/10/2025;Serra Azul;T-09;Sistema de pitch;4.78;2237.59;Corretiva
+05/05/2025;Horizonte Livre;T-07;Transformador;4.38;2277.16;Preventiva
+13/04/2025;Horizonte Livre;T-05;Sistema elétrico;4.64;3778.7;Preventiva
+23/11/2025;Campo Belo;T-24;Sistema de pitch;4.44;1428.52;Corretiva
+03/01/2025;Serra Azul;T-24;Sistema hidráulico;7.8;2926.45;Corretiva
+12/07/2025;Serra Azul;T-11;Caixa de engrenagem;11.23;13969.66;Corretiva
+28/09/2025;Campo Belo;T-11;Transformador;2.54;2629.67;Corretiva
+01/10/2025;Brisa do Sertão;T-07;Sistema hidráulico;6.74;1761.39;Preventiva
+24/02/2025;Brisa do Sertão;T-13;Sistema elétrico;7.93;3995.34;Preventiva
+19/08/2025;Campo Belo;T-18;Sistema de pitch;5.23;3517.43;Corretiva
+18/12/2025;Ventos do Norte;T-12;Sistema hidráulico;4.63;1821.64;Corretiva
+26/08/2025;Horizonte Livre;T-09;Sensor de vento;1.29;655.26;Preventiva
+05/11/2025;Campo Belo;T-24;Sistema elétrico;5.85;3909.38;Corretiva
+17/12/2025;Brisa do Sertão;T-25;Sistema hidráulico;5.42;3244.46;Corretiva
+20/04/2025;Campo Belo;T-23;Sistema elétrico;6.03;5244.24;Corretiva
+07/09/2025;Campo Belo;T-01;Sistema elétrico;5.47;6764.2;Corretiva
+16/09/2025;Serra Azul;T-28;Sistema hidráulico;5.94;1728.56;Corretiva
+07/04/2025;Horizonte Livre;T-03;Transformador;2.39;2385.98;Corretiva
+04/11/2025;Campo Belo;T-05;Transformador;3.66;2571.2;Corretiva
+20/03/2025;Ventos do Norte;T-29;Sistema hidráulico;5.71;2434.45;Corretiva
+06/12/2025;Brisa do Sertão;T-21;Sistema hidráulico;3.73;1136.64;Corretiva
+11/05/2025;Horizonte Livre;T-05;Sistema de pitch;3.33;2685.12;Corretiva
+25/11/2025;Horizonte Livre;T-10;Sistema de pitch;4.32;1003.41;Preventiva
+02/05/2025;Campo Belo;T-17;Sistema de pitch;4.26;2308.25;Preventiva
+24/07/2025;Serra Azul;T-14;Sistema hidráulico;3.67;2638.35;Preventiva
+15/03/2025;Ventos do Norte;T-22;Sistema elétrico;6.12;2128.44;Corretiva
+02/02/2025;Ventos do Norte;T-26;Sistema de pitch;4.54;2448.63;Preventiva
+03/08/2025;Campo Belo;T-01;Sistema de pitch;5.62;2843.04;Corretiva
+13/03/2025;Serra Azul;T-25;Controle eletrônico;1.93;1249.74;Preventiva
+10/12/2025;Brisa do Sertão;T-04;Sistema de pitch;4.77;2411.03;Corretiva
+02/12/2025;Brisa do Sertão;T-19;Sensor de vento;2.41;2055.82;Preventiva
+14/10/2025;Campo Belo;T-10;Sistema elétrico;7.14;4862.68;Corretiva
+23/04/2025;Ventos do Norte;T-23;Transformador;5.43;2521.11;Corretiva
+03/08/2025;Brisa do Sertão;T-25;Caixa de engrenagem;14.74;14276.91;Corretiva
+07/09/2025;Ventos do Norte;T-31;Sensor de vento;1.38;828.95;Corretiva
+08/03/2025;Horizonte Livre;T-15;Controle eletrônico;3.27;2065.5;Corretiva
+19/07/2025;Campo Belo;T-11;Caixa de engrenagem;25.26;6398.2;Corretiva
+23/10/2025;Ventos do Norte;T-15;Caixa de engrenagem;18.75;7161.85;Corretiva
+28/05/2025;Campo Belo;T-10;Controle eletrônico;3.29;2871.16;Corretiva
+20/01/2025;Brisa do Sertão;T-25;Sistema de pitch;4.1;1137.8;Preventiva
+01/04/2025;Ventos do Norte;T-19;Sensor de vento;1.43;1103.88;Corretiva
+20/02/2025;Horizonte Livre;T-07;Sistema elétrico;4.54;3759.75;Corretiva
+12/01/2025;Horizonte Livre;T-04;Sistema hidráulico;5.07;1913.56;Corretiva
+29/06/2025;Serra Azul;T-07;Caixa de engrenagem;24.58;13901.76;Preventiva
+08/04/2025;Ventos do Norte;T-17;Sistema hidráulico;1.96;2667.81;Corretiva
+24/01/2025;Campo Belo;T-25;Sensor de vento;1.47;1155.73;Corretiva
+21/10/2025;Horizonte Livre;T-19;Sistema elétrico;4.41;3362.32;Corretiva
+21/09/2025;Brisa do Sertão;T-22;Sistema de pitch;4.76;2692.6;Preventiva
+16/11/2025;Serra Azul;T-06;Transformador;2.2;1732.4;Preventiva
+08/08/2025;Ventos do Norte;T-18;Caixa de engrenagem;14.1;10040.01;Preventiva
+11/10/2025;Campo Belo;T-02;Sistema hidráulico;7.65;2864.48;Corretiva
+13/11/2025;Horizonte Livre;T-13;Sistema elétrico;3.48;4601.43;Corretiva
+28/08/2025;Serra Azul;T-03;Sensor de vento;3.7;1209.74;Preventiva
+23/11/2025;Serra Azul;T-25;Sensor de vento;0.78;754.73;Corretiva
+26/09/2025;Campo Belo;T-22;Sistema elétrico;8.53;2650.8;Corretiva
+02/10/2025;Brisa do Sertão;T-11;Controle eletrônico;4.67;2619.71;Preventiva
+06/04/2025;Ventos do Norte;T-07;Sensor de vento;1.26;882.14;Corretiva
+13/12/2025;Horizonte Livre;T-17;Sistema elétrico;0.5;2270.73;Corretiva
+17/03/2025;Serra Azul;T-17;Sistema hidráulico;4.62;1377.0;Corretiva
+23/05/2025;Ventos do Norte;T-09;Controle eletrônico;6.45;855.89;Preventiva
+29/06/2025;Horizonte Livre;T-15;Sensor de vento;1.65;939.22;Corretiva
+11/06/2025;Ventos do Norte;T-06;Sistema de pitch;6.16;851.31;Preventiva
+29/04/2025;Horizonte Livre;T-12;Sistema de pitch;5.74;2008.19;Corretiva
+16/07/2025;Campo Belo;T-08;Transformador;2.53;2369.68;Corretiva
+24/08/2025;Campo Belo;T-08;Caixa de engrenagem;16.8;10199.35;Corretiva
+07/06/2025;Campo Belo;T-23;Sistema elétrico;6.14;3037.62;Corretiva
+17/11/2025;Serra Azul;T-07;Controle eletrônico;4.17;2529.7;Corretiva
+05/09/2025;Serra Azul;T-01;Controle eletrônico;6.38;1009.75;Corretiva
+25/12/2025;Campo Belo;T-25;Sistema de pitch;7.2;438.33;Corretiva
+15/09/2025;Serra Azul;T-22;Controle eletrônico;3.77;2470.65;Corretiva
+04/02/2025;Serra Azul;T-11;Controle eletrônico;4.42;1501.84;Corretiva
+19/11/2025;Brisa do Sertão;T-11;Controle eletrônico;3.69;1605.6;Corretiva
+03/12/2025;Brisa do Sertão;T-28;Sistema hidráulico;4.12;3264.64;Corretiva
+23/07/2025;Serra Azul;T-09;Sistema hidráulico;5.54;1876.38;Preventiva
+06/04/2025;Serra Azul;T-10;Sensor de vento;2.72;992.19;Corretiva
+21/08/2025;Horizonte Livre;T-01;Transformador;5.22;2503.7;Preventiva
+13/12/2025;Campo Belo;T-25;Caixa de engrenagem;12.68;10319.46;Corretiva
+06/12/2025;Brisa do Sertão;T-20;Sistema hidráulico;6.12;3049.33;Corretiva
+30/10/2025;Campo Belo;T-11;Transformador;3.97;2093.86;Corretiva
+07/06/2025;Serra Azul;T-27;Sistema hidráulico;6.92;1967.59;Corretiva
+07/02/2025;Serra Azul;T-09;Sistema elétrico;7.09;3257.37;Corretiva
+24/01/2025;Brisa do Sertão;T-19;Controle eletrônico;3.67;2879.02;Corretiva
+11/12/2025;Serra Azul;T-10;Sistema de pitch;5.24;2650.81;Preventiva
+17/06/2025;Horizonte Livre;T-11;Caixa de engrenagem;21.22;12063.01;Preventiva
+30/06/2025;Campo Belo;T-13;Controle eletrônico;5.02;1751.79;Preventiva
+08/03/2025;Campo Belo;T-19;Controle eletrônico;4.49;1895.89;Corretiva
+03/04/2025;Serra Azul;T-17;Sistema de pitch;4.15;2476.13;Corretiva
+29/08/2025;Brisa do Sertão;T-13;Controle eletrônico;2.77;3673.91;Corretiva
+06/01/2025;Horizonte Livre;T-06;Caixa de engrenagem;11.98;8357.43;Preventiva
+06/07/2025;Brisa do Sertão;T-16;Sistema elétrico;8.32;4450.0;Preventiva
+30/01/2025;Brisa do Sertão;T-12;Caixa de engrenagem;18.5;13885.04;Corretiva
+26/04/2025;Brisa do Sertão;T-15;Sistema hidráulico;4.98;1692.47;Corretiva
+22/10/2025;Serra Azul;T-24;Transformador;4.11;1458.27;Corretiva
+27/12/2025;Serra Azul;T-10;Sensor de vento;2.78;855.88;Corretiva
+07/10/2025;Horizonte Livre;T-10;Sistema hidráulico;3.76;2210.75;Preventiva
+30/04/2025;Serra Azul;T-11;Controle eletrônico;4.62;1549.02;Corretiva
+05/02/2025;Ventos do Norte;T-17;Controle eletrônico;2.77;2194.95;Corretiva
+04/02/2025;Brisa do Sertão;T-18;Caixa de engrenagem;16.98;10479.17;Corretiva
+17/12/2025;Ventos do Norte;T-12;Transformador;3.29;2185.64;Preventiva
+03/09/2025;Horizonte Livre;T-02;Sistema hidráulico;2.83;1233.28;Corretiva
+02/06/2025;Brisa do Sertão;T-28;Sensor de vento;1.43;835.97;Corretiva
+25/03/2025;Ventos do Norte;T-29;Caixa de engrenagem;17.24;16426.07;Corretiva
+25/01/2025;Serra Azul;T-09;Caixa de engrenagem;19.43;11520.18;Corretiva
+24/10/2025;Ventos do Norte;T-17;Sensor de vento;1.98;599.24;Preventiva
+08/11/2025;Campo Belo;T-24;Sistema elétrico;5.96;3153.61;Corretiva
+19/07/2025;Brisa do Sertão;T-15;Sistema hidráulico;5.48;1755.49;Corretiva
+14/01/2025;Brisa do Sertão;T-05;Sistema de pitch;4.78;3226.19;Corretiva
+21/11/2025;Serra Azul;T-02;Caixa de engrenagem;15.56;13205.14;Corretiva
+24/05/2025;Ventos do Norte;T-13;Sistema elétrico;7.38;3018.54;Corretiva
+18/07/2025;Serra Azul;T-26;Caixa de engrenagem;16.9;12037.78;Preventiva
+04/10/2025;Brisa do Sertão;T-07;Sistema de pitch;4.15;1381.59;Corretiva
+11/04/2025;Serra Azul;T-07;Sistema hidráulico;5.04;2948.2;Corretiva
+29/10/2025;Horizonte Livre;T-13;Caixa de engrenagem;21.8;14877.81;Corretiva
+06/12/2025;Ventos do Norte;T-17;Controle eletrônico;7.23;1386.12;Corretiva
+02/06/2025;Horizonte Livre;T-08;Sensor de vento;2.7;955.0;Corretiva
+10/06/2025;Ventos do Norte;T-12;Transformador;7.28;1353.36;Corretiva
+27/11/2025;Serra Azul;T-18;Sensor de vento;1.33;720.18;Corretiva
+26/02/2025;Brisa do Sertão;T-19;Sensor de vento;0.5;742.27;Corretiva
+04/04/2025;Campo Belo;T-03;Caixa de engrenagem;12.96;12451.18;Preventiva
+18/10/2025;Serra Azul;T-13;Sensor de vento;2.27;1462.85;Corretiva
+29/06/2025;Serra Azul;T-08;Sistema hidráulico;6.43;1980.79;Preventiva
+07/04/2025;Campo Belo;T-08;Controle eletrônico;2.65;2393.54;Corretiva
+23/07/2025;Horizonte Livre;T-03;Transformador;2.02;3465.17;Preventiva
+30/06/2025;Brisa do Sertão;T-17;Sistema elétrico;8.36;2936.99;Corretiva
+14/06/2025;Horizonte Livre;T-04;Sistema de pitch;1.43;3083.1;Corretiva
+14/01/2025;Ventos do Norte;T-28;Sistema hidráulico;4.83;3614.03;Corretiva
+01/10/2025;Campo Belo;T-21;Transformador;1.61;1520.5;Preventiva
+11/08/2025;Brisa do Sertão;T-30;Controle eletrônico;4.01;2037.58;Corretiva
+26/11/2025;Brisa do Sertão;T-24;Sistema de pitch;3.32;2498.28;Preventiva
+03/05/2025;Brisa do Sertão;T-25;Sistema elétrico;3.86;3329.14;Corretiva
+27/02/2025;Ventos do Norte;T-12;Sensor de vento;2.1;1054.33;Preventiva
+24/12/2025;Brisa do Sertão;T-03;Sistema hidráulico;6.07;1487.82;Corretiva
+14/07/2025;Campo Belo;T-22;Sensor de vento;0.77;1283.3;Corretiva
+09/03/2025;Campo Belo;T-11;Caixa de engrenagem;17.33;9754.54;Corretiva
+12/07/2025;Campo Belo;T-14;Caixa de engrenagem;22.2;12347.02;Corretiva
+03/06/2025;Serra Azul;T-18;Caixa de engrenagem;20.72;12202.56;Corretiva
+26/01/2025;Brisa do Sertão;T-13;Sistema de pitch;7.09;3404.27;Corretiva
+20/09/2025;Horizonte Livre;T-15;Sistema de pitch;3.63;2777.26;Corretiva
+07/08/2025;Campo Belo;T-07;Sensor de vento;2.52;1310.59;Preventiva
+11/01/2025;Brisa do Sertão;T-12;Sistema hidráulico;3.55;3117.45;Preventiva
+10/10/2025;Ventos do Norte;T-25;Sistema elétrico;8.12;1389.51;Preventiva
+28/01/2025;Serra Azul;T-01;Sistema elétrico;3.63;1052.92;Corretiva
+31/12/2025;Ventos do Norte;T-30;Sistema de pitch;3.6;2574.03;Preventiva
+29/06/2025;Horizonte Livre;T-09;Sistema de pitch;6.25;2059.28;Corretiva
+20/05/2025;Ventos do Norte;T-30;Sistema hidráulico;7.44;1257.91;Corretiva
+23/08/2025;Serra Azul;T-17;Sistema elétrico;2.59;3433.34;Corretiva
+24/01/2025;Horizonte Livre;T-11;Sistema elétrico;6.77;3460.77;Corretiva
+07/09/2025;Serra Azul;T-19;Sistema de pitch;0.9;1928.7;Preventiva
+19/03/2025;Ventos do Norte;T-04;Sistema hidráulico;3.04;3102.71;Corretiva
+17/10/2025;Campo Belo;T-08;Transformador;4.55;1248.1;Corretiva
+27/03/2025;Brisa do Sertão;T-08;Sistema hidráulico;4.23;1546.71;Corretiva
+30/12/2025;Serra Azul;T-19;Caixa de engrenagem;15.75;14865.43;Corretiva
+09/10/2025;Ventos do Norte;T-25;Sistema de pitch;2.52;2403.24;Preventiva
+03/04/2025;Campo Belo;T-09;Caixa de engrenagem;13.88;9621.38;Corretiva
+15/04/2025;Horizonte Livre;T-10;Sistema elétrico;5.79;2257.71;Corretiva
+22/12/2025;Brisa do Sertão;T-13;Sistema hidráulico;4.17;1421.91;Preventiva
+26/05/2025;Serra Azul;T-19;Sistema elétrico;9.93;3542.32;Corretiva
+30/08/2025;Ventos do Norte;T-08;Sistema elétrico;4.6;3756.78;Corretiva
+23/04/2025;Serra Azul;T-06;Sistema hidráulico;4.83;2301.13;Preventiva
+10/08/2025;Ventos do Norte;T-15;Sensor de vento;2.49;1127.25;Corretiva
+27/12/2025;Horizonte Livre;T-20;Controle eletrônico;3.2;1539.35;Corretiva
+20/12/2025;Horizonte Livre;T-14;Sistema hidráulico;4.59;428.27;Corretiva
+31/07/2025;Brisa do Sertão;T-09;Transformador;1.73;3093.5;Corretiva
+28/11/2025;Campo Belo;T-20;Caixa de engrenagem;22.58;11252.89;Corretiva
+27/02/2025;Ventos do Norte;T-29;Controle eletrônico;4.86;2249.0;Corretiva
+24/05/2025;Serra Azul;T-03;Sistema elétrico;12.16;4843.49;Preventiva
+01/03/2025;Serra Azul;T-01;Caixa de engrenagem;15.49;9133.38;Corretiva
+01/01/2026;Ventos do Norte;T-26;Transformador;1.59;2162.77;Preventiva
+21/03/2025;Horizonte Livre;T-10;Caixa de engrenagem;12.97;7733.24;Corretiva
+28/09/2025;Brisa do Sertão;T-23;Sensor de vento;1.48;575.54;Corretiva
+27/08/2025;Horizonte Livre;T-10;Sistema hidráulico;7.53;3293.48;Corretiva
+03/10/2025;Campo Belo;T-16;Sistema elétrico;5.98;5275.93;Corretiva
+02/07/2025;Serra Azul;T-03;Controle eletrônico;4.12;1310.97;Preventiva
+01/01/2026;Serra Azul;T-07;Sistema hidráulico;7.28;2985.02;Corretiva
+03/07/2025;Serra Azul;T-14;Controle eletrônico;2.44;1847.73;Preventiva
+30/09/2025;Campo Belo;T-16;Transformador;2.69;893.76;Corretiva
+26/01/2025;Campo Belo;T-10;Sistema elétrico;7.85;5791.3;Corretiva
+28/03/2025;Horizonte Livre;T-10;Sistema de pitch;1.9;2450.38;Corretiva
+27/03/2025;Serra Azul;T-05;Sistema de pitch;3.02;1610.3;Corretiva
+26/01/2025;Serra Azul;T-25;Controle eletrônico;3.11;1308.81;Preventiva
+14/04/2025;Serra Azul;T-04;Sistema de pitch;4.07;1335.24;Preventiva
+04/03/2025;Brisa do Sertão;T-19;Transformador;4.41;1959.81;Corretiva
+01/08/2025;Serra Azul;T-04;Sistema hidráulico;4.64;1683.19;Corretiva
+31/01/2025;Ventos do Norte;T-14;Controle eletrônico;3.13;2604.31;Preventiva
+17/10/2025;Serra Azul;T-22;Controle eletrônico;4.75;1217.96;Corretiva
+10/06/2025;Brisa do Sertão;T-22;Sistema elétrico;6.2;4401.66;Corretiva
+22/09/2025;Campo Belo;T-06;Caixa de engrenagem;9.32;13630.08;Corretiva
+19/09/2025;Serra Azul;T-08;Sensor de vento;1.47;1071.18;Corretiva
+20/06/2025;Serra Azul;T-28;Sistema de pitch;2.86;556.09;Corretiva
+07/10/2025;Brisa do Sertão;T-21;Sensor de vento;0.7;914.43;Corretiva
+04/05/2025;Brisa do Sertão;T-10;Transformador;4.39;1276.55;Preventiva
+20/07/2025;Brisa do Sertão;T-22;Caixa de engrenagem;18.55;7015.44;Corretiva
+27/11/2025;Brisa do Sertão;T-05;Sistema elétrico;5.87;2046.78;Corretiva
+04/01/2025;Horizonte Livre;T-09;Controle eletrônico;3.02;2037.92;Preventiva
+08/04/2025;Brisa do Sertão;T-29;Controle eletrônico;2.71;1692.36;Corretiva
+14/05/2025;Campo Belo;T-15;Caixa de engrenagem;20.03;10269.32;Corretiva
+07/06/2025;Serra Azul;T-11;Caixa de engrenagem;19.34;8610.88;Preventiva
+28/07/2025;Serra Azul;T-28;Sistema hidráulico;5.79;3797.41;Corretiva
+17/10/2025;Horizonte Livre;T-10;Sistema hidráulico;1.29;1782.79;Corretiva
+19/02/2025;Horizonte Livre;T-03;Caixa de engrenagem;18.31;11390.86;Preventiva
+05/10/2025;Horizonte Livre;T-06;Controle eletrônico;4.56;1516.81;Preventiva
+02/01/2025;Campo Belo;T-25;Controle eletrônico;4.13;1875.46;Corretiva
+10/05/2025;Serra Azul;T-17;Sensor de vento;2.93;976.33;Corretiva
+05/09/2025;Ventos do Norte;T-04;Sistema elétrico;6.68;3005.75;Preventiva
+02/09/2025;Serra Azul;T-04;Sistema hidráulico;4.27;2110.7;Preventiva
+26/12/2025;Brisa do Sertão;T-18;Controle eletrônico;4.59;1663.21;Preventiva
+31/05/2025;Campo Belo;T-04;Sistema de pitch;4.43;3660.32;Corretiva
+23/12/2025;Campo Belo;T-07;Sensor de vento;2.7;802.19;Preventiva
+10/06/2025;Horizonte Livre;T-05;Controle eletrônico;5.8;1673.54;Corretiva
+12/09/2025;Horizonte Livre;T-16;Caixa de engrenagem;7.85;8975.74;Corretiva
+22/07/2025;Brisa do Sertão;T-17;Caixa de engrenagem;8.52;10945.46;Corretiva
+29/04/2025;Ventos do Norte;T-15;Sensor de vento;2.01;1402.93;Corretiva
+01/07/2025;Ventos do Norte;T-25;Controle eletrônico;4.49;1824.72;Corretiva
+18/01/2025;Horizonte Livre;T-20;Controle eletrônico;5.24;231.09;Corretiva
+25/03/2025;Horizonte Livre;T-03;Sistema de pitch;4.35;2616.69;Corretiva
+22/07/2025;Ventos do Norte;T-25;Sensor de vento;0.82;1243.13;Preventiva
+08/06/2025;Serra Azul;T-04;Sensor de vento;2.27;775.41;Corretiva
+09/11/2025;Brisa do Sertão;T-03;Sistema hidráulico;5.95;4543.62;Preventiva
+21/10/2025;Brisa do Sertão;T-14;Sistema elétrico;6.36;3797.86;Corretiva
+19/10/2025;Brisa do Sertão;T-18;Sistema de pitch;3.31;1320.12;Corretiva
+19/11/2025;Serra Azul;T-21;Transformador;5.25;1315.13;Corretiva
+19/02/2025;Campo Belo;T-18;Controle eletrônico;4.11;1617.87;Corretiva
+05/05/2025;Brisa do Sertão;T-13;Caixa de engrenagem;17.92;13000.99;Preventiva
+17/10/2025;Ventos do Norte;T-14;Sistema hidráulico;6.56;2040.99;Preventiva
+06/02/2025;Ventos do Norte;T-23;Sistema hidráulico;4.6;1619.11;Preventiva
+03/02/2025;Horizonte Livre;T-04;Controle eletrônico;3.33;2301.84;Preventiva
+15/02/2025;Campo Belo;T-08;Caixa de engrenagem;19.03;9233.5;Corretiva
+16/08/2025;Horizonte Livre;T-19;Caixa de engrenagem;19.48;16066.91;Corretiva
+03/12/2025;Brisa do Sertão;T-29;Sensor de vento;2.33;1463.04;Corretiva
+30/08/2025;Serra Azul;T-15;Sensor de vento;1.38;526.6;Corretiva
+26/03/2025;Serra Azul;T-12;Sistema hidráulico;2.33;3846.44;Preventiva
+20/08/2025;Campo Belo;T-14;Sensor de vento;2.52;883.32;Corretiva
+15/04/2025;Campo Belo;T-10;Sistema de pitch;4.42;1099.61;Corretiva
+21/11/2025;Brisa do Sertão;T-03;Caixa de engrenagem;25.78;12387.66;Corretiva
+11/07/2025;Campo Belo;T-18;Sistema hidráulico;5.16;3153.19;Preventiva
+14/11/2025;Campo Belo;T-14;Sensor de vento;2.38;967.17;Preventiva
+20/03/2025;Brisa do Sertão;T-18;Controle eletrônico;2.81;2377.17;Corretiva
+31/03/2025;Campo Belo;T-01;Sistema hidráulico;7.82;3710.88;Corretiva
+25/09/2025;Serra Azul;T-26;Sistema elétrico;9.19;2886.54;Corretiva
+06/09/2025;Campo Belo;T-09;Sistema elétrico;4.02;3349.06;Preventiva
+16/11/2025;Brisa do Sertão;T-06;Sistema de pitch;4.08;2875.35;Preventiva
+23/01/2025;Serra Azul;T-28;Controle eletrônico;1.46;3223.64;Corretiva
+19/08/2025;Serra Azul;T-13;Transformador;3.76;1658.5;Corretiva
+27/03/2025;Ventos do Norte;T-29;Sistema elétrico;3.98;1514.17;Corretiva
+31/07/2025;Horizonte Livre;T-04;Controle eletrônico;5.23;2058.65;Corretiva
+30/11/2025;Brisa do Sertão;T-14;Sistema elétrico;3.42;1945.91;Corretiva
+07/12/2025;Horizonte Livre;T-15;Sistema hidráulico;4.5;4002.12;Corretiva
+01/11/2025;Campo Belo;T-02;Sensor de vento;1.79;449.06;Corretiva
+16/11/2025;Brisa do Sertão;T-29;Sistema elétrico;5.51;3172.73;Preventiva
+08/01/2025;Campo Belo;T-16;Controle eletrônico;0.5;1956.56;Corretiva
+04/03/2025;Serra Azul;T-21;Sistema hidráulico;4.65;3126.59;Corretiva
+17/07/2025;Serra Azul;T-22;Sensor de vento;3.48;1237.97;Corretiva
+03/04/2025;Horizonte Livre;T-07;Sensor de vento;1.78;568.04;Preventiva
+18/06/2025;Horizonte Livre;T-02;Sensor de vento;4.06;917.77;Corretiva
+06/01/2025;Brisa do Sertão;T-13;Sensor de vento;2.01;892.76;Corretiva
+21/10/2025;Brisa do Sertão;T-26;Sistema elétrico;6.4;3326.77;Corretiva
+01/05/2025;Campo Belo;T-06;Sensor de vento;1.54;735.94;Preventiva
+14/02/2025;Brisa do Sertão;T-19;Sistema de pitch;3.95;1565.26;Preventiva
+13/09/2025;Horizonte Livre;T-06;Sistema elétrico;4.57;3627.72;Corretiva
+20/06/2025;Horizonte Livre;T-11;Caixa de engrenagem;14.98;16511.98;Corretiva
+15/04/2025;Ventos do Norte;T-06;Sistema elétrico;0.7;4809.81;Preventiva
+05/08/2025;Brisa do Sertão;T-08;Sistema de pitch;5.87;341.29;Corretiva
+08/02/2025;Campo Belo;T-24;Sensor de vento;1.73;788.57;Preventiva
+26/01/2025;Horizonte Livre;T-06;Transformador;1.89;1377.75;Corretiva
+19/05/2025;Brisa do Sertão;T-07;Transformador;2.33;3401.82;Preventiva
+04/10/2025;Campo Belo;T-05;Sistema hidráulico;6.4;3644.4;Preventiva
+31/01/2025;Campo Belo;T-11;Caixa de engrenagem;18.89;8612.84;Preventiva
+13/06/2025;Serra Azul;T-03;Controle eletrônico;3.21;2391.5;Corretiva
+17/03/2025;Ventos do Norte;T-16;Sensor de vento;1.02;1113.9;Corretiva
+06/08/2025;Brisa do Sertão;T-17;Sistema elétrico;5.52;3050.22;Preventiva
+07/06/2025;Campo Belo;T-03;Sistema de pitch;5.07;2355.41;Corretiva
+07/10/2025;Horizonte Livre;T-03;Transformador;3.46;2927.46;Corretiva
+16/10/2025;Brisa do Sertão;T-16;Sistema hidráulico;3.38;3054.34;Preventiva
+23/06/2025;Brisa do Sertão;T-18;Sistema de pitch;4.89;1752.36;Preventiva
+15/11/2025;Campo Belo;T-17;Transformador;4.49;999.11;Corretiva
+10/01/2025;Ventos do Norte;T-17;Caixa de engrenagem;19.7;11445.29;Corretiva
+09/09/2025;Brisa do Sertão;T-18;Caixa de engrenagem;13.91;15147.03;Corretiva
+04/03/2025;Brisa do Sertão;T-08;Sistema de pitch;2.94;873.23;Corretiva
+30/06/2025;Serra Azul;T-12;Sensor de vento;0.75;1081.8;Corretiva
+04/08/2025;Campo Belo;T-18;Sistema elétrico;3.44;5605.75;Corretiva
+20/09/2025;Ventos do Norte;T-05;Sistema elétrico;1.84;5535.75;Preventiva
+06/02/2025;Campo Belo;T-14;Transformador;4.32;1922.63;Corretiva
+09/04/2025;Ventos do Norte;T-25;Caixa de engrenagem;13.82;13197.41;Corretiva
+03/10/2025;Horizonte Livre;T-08;Sensor de vento;1.97;1230.99;Corretiva
+13/09/2025;Serra Azul;T-26;Sensor de vento;2.09;945.09;Corretiva
+08/03/2025;Horizonte Livre;T-10;Sensor de vento;1.71;882.92;Corretiva
+22/03/2025;Campo Belo;T-23;Transformador;4.46;631.87;Corretiva
+24/05/2025;Horizonte Livre;T-17;Sistema de pitch;1.98;2594.61;Corretiva
+04/01/2025;Brisa do Sertão;T-19;Sistema elétrico;6.34;3279.22;Corretiva
+29/04/2025;Brisa do Sertão;T-06;Sistema hidráulico;5.03;2812.82;Corretiva
+19/06/2025;Ventos do Norte;T-26;Caixa de engrenagem;13.84;9665.09;Corretiva
+12/08/2025;Campo Belo;T-20;Transformador;4.29;1217.3;Preventiva
+17/12/2025;Horizonte Livre;T-02;Transformador;4.61;637.93;Corretiva
+18/11/2025;Campo Belo;T-07;Sensor de vento;2.82;1041.78;Corretiva
+24/04/2025;Brisa do Sertão;T-15;Sistema de pitch;4.38;2786.15;Corretiva
+24/02/2025;Campo Belo;T-20;Sensor de vento;3.33;1204.31;Preventiva
+07/02/2025;Brisa do Sertão;T-19;Sistema hidráulico;2.24;1348.38;Corretiva
+25/07/2025;Brisa do Sertão;T-20;Sensor de vento;1.5;907.83;Corretiva
+12/01/2025;Brisa do Sertão;T-13;Controle eletrônico;4.78;1419.4;Corretiva
+09/03/2025;Horizonte Livre;T-20;Sistema hidráulico;5.28;1820.16;Preventiva
+04/08/2025;Serra Azul;T-26;Sistema hidráulico;4.08;1234.01;Preventiva
+27/04/2025;Ventos do Norte;T-21;Sistema de pitch;2.62;918.65;Preventiva
+22/02/2025;Brisa do Sertão;T-10;Controle eletrônico;2.54;2842.91;Preventiva
+26/04/2025;Horizonte Livre;T-13;Controle eletrônico;2.58;4105.91;Corretiva
+24/03/2025;Ventos do Norte;T-21;Sensor de vento;2.39;955.45;Corretiva
+20/06/2025;Campo Belo;T-17;Sistema elétrico;4.28;4340.37;Corretiva
+06/10/2025;Brisa do Sertão;T-28;Transformador;3.14;2097.61;Preventiva
+05/08/2025;Horizonte Livre;T-02;Transformador;7.84;1923.15;Corretiva
+28/05/2025;Campo Belo;T-22;Transformador;5.72;1437.46;Preventiva
+13/02/2025;Ventos do Norte;T-22;Controle eletrônico;3.95;3416.64;Corretiva
+26/06/2025;Brisa do Sertão;T-04;Transformador;3.06;3449.96;Corretiva
+01/09/2025;Serra Azul;T-16;Caixa de engrenagem;18.83;10312.6;Corretiva
+23/03/2025;Campo Belo;T-25;Sistema hidráulico;5.95;3375.3;Preventiva
+08/09/2025;Serra Azul;T-04;Sensor de vento;2.5;428.93;Corretiva
+19/01/2025;Brisa do Sertão;T-01;Sistema de pitch;2.91;1801.99;Corretiva
+10/09/2025;Brisa do Sertão;T-28;Caixa de engrenagem;15.7;13862.02;Corretiva
+26/01/2025;Serra Azul;T-09;Sistema hidráulico;5.27;1298.19;Preventiva
+01/07/2025;Horizonte Livre;T-09;Controle eletrônico;4.57;2488.47;Preventiva
+24/05/2025;Brisa do Sertão;T-29;Caixa de engrenagem;18.24;15242.34;Corretiva
+17/02/2025;Horizonte Livre;T-13;Caixa de engrenagem;19.34;13377.54;Corretiva
+05/08/2025;Ventos do Norte;T-02;Sistema hidráulico;4.89;1005.14;Corretiva
+04/12/2025;Serra Azul;T-12;Transformador;4.64;2166.15;Preventiva
+22/10/2025;Serra Azul;T-25;Caixa de engrenagem;17.09;8169.75;Corretiva
+20/11/2025;Ventos do Norte;T-18;Caixa de engrenagem;11.68;15159.46;Preventiva
+18/07/2025;Brisa do Sertão;T-21;Sistema de pitch;3.94;2545.2;Preventiva
+24/12/2025;Campo Belo;T-01;Sistema de pitch;4.04;2023.8;Corretiva
+10/02/2025;Ventos do Norte;T-27;Sistema hidráulico;6.41;2035.56;Preventiva
+07/08/2025;Ventos do Norte;T-27;Controle eletrônico;4.14;1630.18;Preventiva
+21/11/2025;Horizonte Livre;T-10;Sistema de pitch;3.35;1752.66;Preventiva
+10/05/2025;Ventos do Norte;T-27;Caixa de engrenagem;16.89;10563.75;Preventiva
+23/09/2025;Serra Azul;T-03;Sistema elétrico;8.51;2426.47;Preventiva
+19/11/2025;Horizonte Livre;T-20;Transformador;3.72;1648.22;Corretiva
+11/01/2025;Horizonte Livre;T-06;Caixa de engrenagem;21.79;12589.66;Preventiva
+01/07/2025;Horizonte Livre;T-14;Caixa de engrenagem;20.13;7543.32;Corretiva
+01/09/2025;Horizonte Livre;T-09;Sistema de pitch;4.4;2711.7;Preventiva
+19/01/2025;Serra Azul;T-12;Controle eletrônico;4.12;2852.38;Preventiva
+23/02/2025;Serra Azul;T-15;Sistema de pitch;3.22;3127.48;Corretiva
+03/10/2025;Brisa do Sertão;T-19;Controle eletrônico;7.45;1709.73;Corretiva
+28/11/2025;Ventos do Norte;T-10;Controle eletrônico;3.33;3162.71;Corretiva
+09/05/2025;Serra Azul;T-20;Caixa de engrenagem;22.32;10431.42;Corretiva
+23/12/2025;Campo Belo;T-10;Sensor de vento;1.66;815.46;Corretiva
+07/10/2025;Campo Belo;T-18;Sistema elétrico;3.31;2397.62;Corretiva
+07/08/2025;Horizonte Livre;T-14;Sensor de vento;1.2;669.66;Corretiva
+27/05/2025;Brisa do Sertão;T-03;Transformador;3.95;2187.37;Corretiva
+28/10/2025;Brisa do Sertão;T-15;Transformador;6.33;1201.32;Corretiva
+26/07/2025;Campo Belo;T-05;Sistema hidráulico;6.48;2307.41;Corretiva
+05/06/2025;Campo Belo;T-24;Sistema de pitch;3.93;2539.86;Corretiva
+09/10/2025;Serra Azul;T-07;Sensor de vento;1.1;1014.72;Corretiva
+20/11/2025;Horizonte Livre;T-06;Sensor de vento;2.13;1047.74;Corretiva
+06/04/2025;Serra Azul;T-22;Sistema de pitch;4.43;3964.24;Corretiva
+03/04/2025;Brisa do Sertão;T-11;Transformador;3.04;1575.2;Corretiva
+23/05/2025;Horizonte Livre;T-02;Sistema hidráulico;4.07;2000.07;Preventiva
+20/04/2025;Ventos do Norte;T-15;Sistema de pitch;3.04;2951.21;Preventiva
+17/01/2025;Ventos do Norte;T-03;Transformador;6.13;1543.4;Preventiva
+09/01/2025;Horizonte Livre;T-17;Sistema de pitch;2.75;2377.13;Corretiva
+02/12/2025;Ventos do Norte;T-12;Sistema hidráulico;4.17;3069.64;Corretiva
+04/09/2025;Brisa do Sertão;T-19;Sistema elétrico;6.41;1681.11;Corretiva
+17/06/2025;Brisa do Sertão;T-26;Caixa de engrenagem;22.19;17387.63;Corretiva
+14/06/2025;Serra Azul;T-01;Sistema elétrico;4.77;3034.76;Corretiva
+06/09/2025;Brisa do Sertão;T-27;Controle eletrônico;4.43;2267.57;Preventiva
+01/02/2025;Ventos do Norte;T-19;Controle eletrônico;4.99;3608.16;Preventiva
+31/01/2025;Ventos do Norte;T-22;Caixa de engrenagem;15.29;9605.11;Corretiva
+27/11/2025;Brisa do Sertão;T-18;Sistema hidráulico;2.93;1842.16;Preventiva
+29/09/2025;Brisa do Sertão;T-10;Caixa de engrenagem;15.87;17383.67;Corretiva
+09/11/2025;Brisa do Sertão;T-13;Sensor de vento;1.59;967.14;Corretiva
+31/07/2025;Serra Azul;T-08;Controle eletrônico;3.98;2950.71;Preventiva
+20/08/2025;Brisa do Sertão;T-08;Sistema hidráulico;8.79;2022.22;Preventiva
+22/07/2025;Ventos do Norte;T-30;Transformador;3.27;2835.33;Corretiva
+12/09/2025;Brisa do Sertão;T-07;Sistema de pitch;5.02;3477.37;Preventiva
+12/06/2025;Ventos do Norte;T-13;Sensor de vento;2.47;792.21;Preventiva
+15/06/2025;Brisa do Sertão;T-10;Sensor de vento;2.47;1232.61;Corretiva
+31/05/2025;Ventos do Norte;T-10;Controle eletrônico;5.23;2405.82;Preventiva
+16/02/2025;Horizonte Livre;T-14;Sistema hidráulico;6.6;3552.37;Corretiva
+31/01/2025;Brisa do Sertão;T-19;Controle eletrônico;6.07;2518.97;Corretiva
+16/05/2025;Campo Belo;T-22;Transformador;3.75;2117.37;Corretiva
+30/04/2025;Ventos do Norte;T-21;Transformador;5.81;1346.45;Preventiva
+21/03/2025;Brisa do Sertão;T-30;Sistema de pitch;4.55;1685.33;Corretiva
+29/05/2025;Brisa do Sertão;T-29;Caixa de engrenagem;16.11;15835.36;Preventiva
+23/09/2025;Horizonte Livre;T-07;Sensor de vento;2.15;913.93;Corretiva
+17/04/2025;Serra Azul;T-21;Controle eletrônico;1.96;2597.0;Corretiva
+03/09/2025;Ventos do Norte;T-30;Sistema de pitch;4.97;3730.6;Corretiva
+19/12/2025;Brisa do Sertão;T-01;Sistema de pitch;3.54;2175.32;Corretiva
+15/02/2025;Horizonte Livre;T-05;Sistema hidráulico;5.37;3919.71;Preventiva
+28/10/2025;Serra Azul;T-28;Sistema elétrico;5.81;3834.83;Corretiva
+01/01/2025;Horizonte Livre;T-03;Sistema elétrico;7.22;3723.93;Corretiva
+06/01/2025;Serra Azul;T-12;Controle eletrônico;3.33;2155.27;Corretiva
+04/11/2025;Serra Azul;T-21;Caixa de engrenagem;20.29;8920.45;Corretiva
+15/03/2025;Brisa do Sertão;T-13;Sensor de vento;2.11;689.96;Corretiva
+28/06/2025;Serra Azul;T-12;Caixa de engrenagem;20.78;7430.44;Corretiva
+05/02/2025;Horizonte Livre;T-08;Sistema elétrico;4.88;3952.65;Preventiva
+12/03/2025;Campo Belo;T-19;Caixa de engrenagem;22.26;11802.75;Corretiva
+05/12/2025;Ventos do Norte;T-12;Controle eletrônico;3.17;3504.93;Corretiva
+15/12/2025;Ventos do Norte;T-06;Caixa de engrenagem;10.21;5403.58;Corretiva
+30/07/2025;Ventos do Norte;T-29;Caixa de engrenagem;17.76;10493.84;Corretiva
+01/09/2025;Campo Belo;T-06;Sistema hidráulico;3.47;3137.52;Corretiva
+23/08/2025;Ventos do Norte;T-32;Sensor de vento;2.2;730.78;Corretiva
+23/03/2025;Serra Azul;T-14;Controle eletrônico;2.08;2697.97;Corretiva
+11/09/2025;Ventos do Norte;T-16;Sistema de pitch;4.98;1920.66;Corretiva
+07/12/2025;Ventos do Norte;T-32;Sistema hidráulico;7.77;1536.92;Preventiva
+22/09/2025;Ventos do Norte;T-14;Sensor de vento;0.78;692.43;Corretiva
+09/12/2025;Brisa do Sertão;T-13;Transformador;3.93;2194.67;Corretiva
+23/01/2025;Serra Azul;T-01;Sistema elétrico;5.52;3922.47;Corretiva
+01/10/2025;Serra Azul;T-12;Sistema elétrico;3.5;5232.52;Preventiva
+05/06/2025;Serra Azul;T-14;Transformador;3.88;2893.84;Corretiva
+14/12/2025;Serra Azul;T-08;Sistema elétrico;6.69;4048.1;Corretiva
+17/01/2025;Ventos do Norte;T-28;Sistema de pitch;4.85;2358.17;Corretiva
+12/03/2025;Brisa do Sertão;T-01;Controle eletrônico;4.96;3063.32;Corretiva
+30/09/2025;Brisa do Sertão;T-20;Controle eletrônico;4.29;2567.2;Corretiva
+05/05/2025;Horizonte Livre;T-05;Sistema de pitch;3.87;3152.09;Preventiva
+11/07/2025;Campo Belo;T-23;Sistema elétrico;4.65;5661.13;Corretiva
+03/07/2025;Horizonte Livre;T-13;Controle eletrônico;3.94;855.38;Corretiva
+14/03/2025;Campo Belo;T-20;Transformador;4.19;1455.16;Preventiva
+04/03/2025;Brisa do Sertão;T-19;Transformador;5.26;1477.9;Corretiva
+27/04/2025;Ventos do Norte;T-21;Caixa de engrenagem;14.22;6331.38;Preventiva
+22/07/2025;Campo Belo;T-17;Transformador;3.32;100.0;Corretiva
+21/02/2025;Brisa do Sertão;T-10;Sistema hidráulico;2.62;3184.37;Corretiva
+22/12/2025;Brisa do Sertão;T-17;Sensor de vento;2.63;1027.64;Corretiva
+30/12/2025;Brisa do Sertão;T-05;Sistema de pitch;2.55;1961.83;Corretiva
+23/06/2025;Serra Azul;T-17;Caixa de engrenagem;15.99;8524.91;Preventiva
+02/12/2025;Campo Belo;T-05;Sensor de vento;3.2;1163.21;Corretiva
+31/07/2025;Brisa do Sertão;T-15;Sistema de pitch;3.67;2021.51;Corretiva
+18/06/2025;Ventos do Norte;T-27;Sistema hidráulico;5.31;662.44;Corretiva
+31/12/2025;Ventos do Norte;T-06;Controle eletrônico;3.63;1454.41;Corretiva
+20/07/2025;Ventos do Norte;T-29;Controle eletrônico;2.5;1775.12;Corretiva
+02/01/2025;Horizonte Livre;T-05;Sensor de vento;3.44;1092.25;Corretiva
+22/05/2025;Brisa do Sertão;T-30;Sensor de vento;1.54;1071.77;Corretiva
