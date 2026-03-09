@@ -20,7 +20,7 @@ Essas análises auxiliam na **identificação de criticidade operacional e prior
 
 ### Página 1 — Visão Executiva
 
-![Página 1 - Visão Executiva](Página1_Visão Executiva.png)
+![Página 1 - Visão Executiva](pagina1_visao_executiva.png)
 
 Apresenta uma visão geral da operação, incluindo:
 
@@ -34,7 +34,7 @@ Também inclui análise **Pareto de tipos de falha**, permitindo identificar os 
 
 ### Página 2 — Análise por Parque
 
-![Página 2 - Análise de Ativos](Página2_Análise de Ativos.png)
+![Página 2 - Análise de Ativos](pagina2_analise_ativos.png)
 
 Comparação entre parques eólicos considerando:
 
@@ -44,13 +44,11 @@ Comparação entre parques eólicos considerando:
 - MTTR por parque
 
 Essa análise permite identificar **parques com maior criticidade operacional**.
-
-### Página 2 — Análise por Parque
 ---
 
 ### Página 3 — Tendência Temporal
 
-![Página 3 - Tendência Operacional](Página3_Tendência Operacional.png)
+![Página 3 - Tendência Operacional](pagina3_tendencia_operacional.png)
 
 Apresenta a evolução mensal dos indicadores:
 
